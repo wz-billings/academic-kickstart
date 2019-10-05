@@ -90,7 +90,7 @@ phone = "(980) 241-7815"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "2347 Old NC 27 Hwy", city = "Mount Holly", region = "NC", postcode = "28120", country = "United States", country_code = "US"}
+address = {street = "245 Memorial Drive, Ste 9417", city = "Cullowhee", region = "NC", postcode = "28723", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
