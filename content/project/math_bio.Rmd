@@ -1,8 +1,0 @@
----
-title: "Math-Biology REU 2018"  # Add a page title.
-summary: "I participated in the Math-Biology REU at the University of North Carolina, Greensboro in Summer 2018. I worked with the Bobay lab on a probabilistic model for convergent evolution."  # Add a page description.
-date: "2019-01-01T00:00:00Z"  # Add today's date.
-type: "project"  # Page type is a project
----
-
-Content!
