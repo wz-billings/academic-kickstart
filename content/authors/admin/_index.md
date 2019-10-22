@@ -55,7 +55,7 @@ social:
   link: https://www.linkedin.com/in/zane-b/
 - icon: cv
   icon_pack: ai
-  link: files/curriculum_vitae.pdf
+  link: files/cv_body.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
