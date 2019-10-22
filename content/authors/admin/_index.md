@@ -69,7 +69,7 @@ user_groups:
 - Visitors
 ---
 
-Zane Billings is a mathematics student pursuing his undergraduate degree in applied mathematics and molecular biology at Western Carolina University. He has experience in R programming, scientific computing, differential equation models, and data analysis. He has a 4.0 GPA, including several upper-level mathematics and biology courses, and additionally has been the teaching assistant for Introduction to Scientific Computing for two semesters. Zane has participated in two REU programs ( [Math-Biology at UNCG](http://www.uncg.edu/mat/bio-math/REU/people.html) and [Population Biology of Infectious Diseases at UGA]() .) 
+Zane Billings is a mathematics student pursuing his undergraduate degree in applied mathematics and molecular biology at Western Carolina University. He has experience in R programming, scientific computing, differential equation models, and data analysis. He has a 4.0 GPA, including several upper-level mathematics and biology courses, and additionally has been the teaching assistant for Introduction to Scientific Computing for two semesters. Zane has participated in two REU programs, [Math-Biology at UNCG](http://www.uncg.edu/mat/bio-math/REU/people.html) and [Population Biology of Infectious Diseases at UGA](http://reu.ecology.uga.edu/).
 
 Zane has been the recipient of several scholarships, and has additionally been granted the Anastasia "Stacy" O'Connell scholarship and research grant twice by WCU's biology department. In 2019, Zane was part of a team designated as a meritorious winner for their submission to the COMAP Mathematical Contest in Modeling. He is currently involved in several research projects at WCU, including a senior thesis in biology.
 
