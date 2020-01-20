@@ -41,9 +41,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:wz.billings@gmail.com'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/wz_billings 
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-0184-6134
