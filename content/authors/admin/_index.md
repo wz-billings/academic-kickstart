@@ -10,25 +10,26 @@ authors:
 superuser: true
 
 # Role/position
-role: Math and Biology Undergrad
+role: Biostats PhD Student!!
 
 # Organizations/Affiliations
 organizations:
-- name: Western Carolina University
-  url: "https://wcu.edu"
+- name: University of Georgia College of Public Health
+  url: "https://publichealth.uga.edu/departments/epidemiology-biostatistics/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a motivated undergrad (future grad student!) interested in statistics, probability, modeling, and dynamical systems.
+bio: I am now excited to be accepted to UGA's Epidemiology and Biostatistics PhD program beginning in the Fall! (I was previously a motivated undergrad interested in statistics, probability, modeling, and dynamical systems.)
 
 interests:
-- Statistics (regression methods; time series)
-- Data analysis
+- Statistics and data analysis
 - Biological modeling
 - R Programming
 - Math/Stats pegagogy
 
 education:
   courses:
+  - course: PhD in Biostatistics
+    institution: University of Georgia
   - course: B.S. in Mathematics and Biology
     institution: Western Carolina University
     year: 2020
@@ -64,6 +65,8 @@ user_groups:
 - Visitors
 ---
 
-Zane Billings is a mathematics student pursuing his undergraduate degree in applied mathematics and molecular biology at Western Carolina University. He has experience in R programming, scientific computing, differential equation models, and data analysis. He has a 4.0 GPA, including several upper-level mathematics and biology courses, and additionally has been the teaching assistant for Introduction to Scientific Computing for two semesters. Zane has participated in two REU programs, [Math-Biology at UNCG](http://www.uncg.edu/mat/bio-math/REU/people.html) and [Population Biology of Infectious Diseases at UGA](http://reu.ecology.uga.edu/).
+Zane Billings is extremely excited to begin his graduate education at the University of Georgia in the fall! He will begin his PhD program in biostatistics very soon.
 
-Zane's previous work, employment, etc. can be accessed through the projects and links pages here, or through the outgoing links to the left. 
+Soon, this information will be outdated: Zane Billings is a mathematics student pursuing his undergraduate degree in applied mathematics and molecular biology at Western Carolina University. He has experience in R programming, scientific computing, differential equation models, and data analysis. 
+
+Zane has participated in two REU programs, [Math-Biology at UNCG](http://www.uncg.edu/mat/bio-math/REU/people.html) and [Population Biology of Infectious Diseases at UGA](http://reu.ecology.uga.edu/). Additionally, Zane was the TA for a course on scientific computing for three semesters at WCU. His previous work, employment, etc. can be accessed through the projects and links pages here, or through the outgoing links to the left. 
