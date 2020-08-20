@@ -18,7 +18,7 @@ organizations:
   url: "https://publichealth.uga.edu/departments/epidemiology-biostatistics/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am now excited to be accepted to UGA's Epidemiology and Biostatistics PhD program beginning in the Fall! (I was previously a motivated undergrad interested in statistics, probability, modeling, and dynamical systems.)
+bio: I am a Biostatistics PhD student at the University of Georgia. My main interests are statistical data analysis and infectious diseases.
 
 interests:
 - Statistics and data analysis
@@ -65,8 +65,8 @@ user_groups:
 - Visitors
 ---
 
-Zane Billings is extremely excited to begin his graduate education at the University of Georgia in the fall! He will begin his PhD program in biostatistics very soon.
-
-Soon, this information will be outdated: Zane Billings is a mathematics student pursuing his undergraduate degree in applied mathematics and molecular biology at Western Carolina University. He has experience in R programming, scientific computing, differential equation models, and data analysis. 
+Zane Billings is a first-year PhD student in the Epidemiology and Biostatistics program at the University of Georgia. He has experience in R programming, scientific computing, differential equation models, and data analysis. He obtained his undergraduate degree in mathematics and biology at Western Carolina University, where his research primarily focused on keratin based modulation of the autophagy pathway.
 
 Zane has participated in two REU programs, [Math-Biology at UNCG](http://www.uncg.edu/mat/bio-math/REU/people.html) and [Population Biology of Infectious Diseases at UGA](http://reu.ecology.uga.edu/). Additionally, Zane was the TA for a course on scientific computing for three semesters at WCU. His previous work, employment, etc. can be accessed through the projects and links pages here, or through the outgoing links to the left. 
+
+This website is still under construction, so expect updates!
